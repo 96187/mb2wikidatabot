@@ -12,7 +12,7 @@ from urlparse import urlparse
 WIKI_PREFIX = "/wiki/"
 
 DB_USER = 'musicbrainz'
-DB = 'musicbrainz'
+DB = 'musicbrainz_db_slave'
 
 db = None
 
